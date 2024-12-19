@@ -12,7 +12,11 @@ In my **day job**, I’m a **young tech policy wonk**, passionate about advancin
 - **Regulation improvement** to foster collaboration and innovation
 - **Empowering stakeholders**—from developers to customers—to navigate the dynamic regulatory landscape with confidence
 
-Before working on cyber policy, you could have found me having fun on GitHub. 🎉 I’ve created a couple of projects, while learning **data science** and **artificial intelligence** techniques. Programming has been great fun and learning experience, but ultimately I did not pursue it proffessionally! Check out the cool project I contributed to "News cycle aggregator" - it's pinned below.🧑‍💻 
+Before working on cyber policy, you could have found me having fun on GitHub. 🎉 I’ve created a couple of projects, while learning **data science** and **artificial intelligence** techniques. Programming has been great fun and learning experience, but ultimately I did not pursue it proffessionally! 
+
+During my brief time exploring the **developer space**, I gained valuable experience in coding and learned the importance of **community building** to drive impactful technologies. 
+
+Check out the cool project I contributed to "News cycle aggregator" - it's pinned below.🧑‍💻 
 
 ---
 
