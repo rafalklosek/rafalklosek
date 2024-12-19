@@ -16,7 +16,7 @@ Before working on cyber policy, you could have found me having fun on GitHub. �
 
 During my brief time exploring the **developer space**, I gained valuable experience in coding and learned the importance of **community building** to drive impactful technologies. 
 
-Check out the cool project I contributed to "News cycle aggregator" - it's pinned below.🧑‍💻 
+Check out the cool project I contributed to back in 2023 "News cycle aggregator"- it's pinned below.🧑‍💻 
 
 ---
 
